@@ -1936,5 +1936,17 @@
     "vg_name_to_shrink": "rl",
     "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
     "target_disk_size_gb": "64"
+  },
+  {
+    "vm_name": "unffran-rocky-10-133-105-44",
+    "vg_name_to_shrink": "rl",
+    "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
+    "target_disk_size_gb": "64"
+  },
+  {
+    "vm_name": "unffran-rocky-10-133-105-58",
+    "vg_name_to_shrink": "rl",
+    "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
+    "target_disk_size_gb": "64"
   }
 ]
