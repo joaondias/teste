@@ -24,7 +24,7 @@
     "target_disk_size_gb": "64"
   },
   {
-    "vm_name": "unffran-rocky-10-133-96-225",
+    "vm_name": "10-133-96-225-rocky-prd",
     "vg_name_to_shrink": "rl",
     "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
     "target_disk_size_gb": "64"
@@ -66,19 +66,19 @@
     "target_disk_size_gb": "64"
   },
   {
-    "vm_name": "unffran-rocky-10-133-97-104",
+    "vm_name": "10-133-97-104-rocky-prd",
     "vg_name_to_shrink": "rl",
     "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
     "target_disk_size_gb": "64"
   },
   {
-    "vm_name": "unffran-rocky-10-133-97-110",
+    "vm_name": "10-133-97-110-rocky-prd",
     "vg_name_to_shrink": "rl",
     "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
     "target_disk_size_gb": "64"
   },
   {
-    "vm_name": "unffran-rocky-10-133-97-124",
+    "vm_name": "10-133-97-124-rocky-prd",
     "vg_name_to_shrink": "rl",
     "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
     "target_disk_size_gb": "64"
@@ -96,25 +96,25 @@
     "target_disk_size_gb": "64"
   },
   {
-    "vm_name": "unffran-rocky-10-133-97-211",
+    "vm_name": "10-133-97-211-rocky-prd",
     "vg_name_to_shrink": "rl",
     "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
     "target_disk_size_gb": "64"
   },
   {
-    "vm_name": "unffran-rocky-10-133-97-213",
+    "vm_name": "10-133-97-213-rocky-prd",
     "vg_name_to_shrink": "rl",
     "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
     "target_disk_size_gb": "64"
   },
   {
-    "vm_name": "unffran-rocky-10-133-97-214",
+    "vm_name": "10-133-97-214-rocky-prd",
     "vg_name_to_shrink": "rl",
     "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
     "target_disk_size_gb": "64"
   },
   {
-    "vm_name": "unffran-rocky-10-133-97-215",
+    "vm_name": "10-133-97-215-rocky-prd",
     "vg_name_to_shrink": "rl",
     "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
     "target_disk_size_gb": "64"
@@ -216,13 +216,13 @@
     "target_disk_size_gb": "64"
   },
   {
-    "vm_name": "unffran-rocky-10-133-104-253",
+    "vm_name": "10-133-104-253-rocky-prd",
     "vg_name_to_shrink": "rl",
     "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
     "target_disk_size_gb": "64"
   },
   {
-    "vm_name": "unffran-rocky-10-133-104-254",
+    "vm_name": "10-133-104-254-rocky-prd",
     "vg_name_to_shrink": "rl",
     "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
     "target_disk_size_gb": "64"
@@ -768,7 +768,7 @@
     "target_disk_size_gb": "64"
   },
   {
-    "vm_name": "unffran-rocky-10-133-104-154",
+    "vm_name": "10-133-104-154-rocky-prd",
     "vg_name_to_shrink": "rl",
     "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
     "target_disk_size_gb": "64"
@@ -924,7 +924,7 @@
     "target_disk_size_gb": "64"
   },
   {
-    "vm_name": "unffran-rocky-10-133-104-180",
+    "vm_name": "10-133-104-180-rocky-prd",
     "vg_name_to_shrink": "rl",
     "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
     "target_disk_size_gb": "64"
@@ -1350,7 +1350,7 @@
     "target_disk_size_gb": "64"
   },
   {
-    "vm_name": "unffran-rocky-10-133-104-252",
+    "vm_name": "10-133-104-252-rocky-prd",
     "vg_name_to_shrink": "rl",
     "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
     "target_disk_size_gb": "64"
@@ -1368,19 +1368,19 @@
     "target_disk_size_gb": "64"
   },
   {
-    "vm_name": "unffran-rocky-10-133-105-10",
+    "vm_name": "10-133-105-10-rocky-prd",
     "vg_name_to_shrink": "rl",
     "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
     "target_disk_size_gb": "64"
   },
   {
-    "vm_name": "unffran-rocky-10-133-105-11",
+    "vm_name": "10-133-105-11-rocky-prd",
     "vg_name_to_shrink": "rl",
     "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
     "target_disk_size_gb": "64"
   },
   {
-    "vm_name": "unffran-rocky-10-133-105-12",
+    "vm_name": "10-133-105-12-rocky-prd",
     "vg_name_to_shrink": "rl",
     "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
     "target_disk_size_gb": "64"
@@ -1716,235 +1716,223 @@
     "target_disk_size_gb": "64"
   },
   {
-    "vm_name": "unffran-rocky-10-133-104-41",
-    "vg_name_to_shrink": "rl",
-    "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
-    "target_disk_size_gb": "64"
-  },
-  {
-    "vm_name": "unffran-rocky-10-133-104-41",
-    "vg_name_to_shrink": "rl",
-    "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
-    "target_disk_size_gb": "64"
-  },
-  {
-    "vm_name": "unffran-rocky-10-133-104-41",
-    "vg_name_to_shrink": "rl",
-    "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
-    "target_disk_size_gb": "64"
-  },
-  {
-    "vm_name": "unffran-rocky-10-133-104-41",
-    "vg_name_to_shrink": "rl",
-    "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
-    "target_disk_size_gb": "64"
-  },
-  {
-    "vm_name": "unffran-rocky-10-133-104-41",
-    "vg_name_to_shrink": "rl",
-    "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
-    "target_disk_size_gb": "64"
-  },
-  {
-    "vm_name": "unffran-rocky-10-133-104-41",
-    "vg_name_to_shrink": "rl",
-    "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
-    "target_disk_size_gb": "64"
-  },
-  {
-    "vm_name": "unffran-rocky-10-133-104-41",
-    "vg_name_to_shrink": "rl",
-    "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
-    "target_disk_size_gb": "64"
-  },
-  {
-    "vm_name": "unffran-rocky-10-133-104-41",
-    "vg_name_to_shrink": "rl",
-    "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
-    "target_disk_size_gb": "64"
-  },
-  {
-    "vm_name": "unffran-rocky-10-133-104-41",
-    "vg_name_to_shrink": "rl",
-    "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
-    "target_disk_size_gb": "64"
-  },
-  {
-    "vm_name": "unffran-rocky-10-133-104-41",
-    "vg_name_to_shrink": "rl",
-    "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
-    "target_disk_size_gb": "64"
-  },
-  {
-    "vm_name": "unffran-rocky-10-133-104-41",
-    "vg_name_to_shrink": "rl",
-    "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
-    "target_disk_size_gb": "64"
-  },
-  {
-    "vm_name": "unffran-rocky-10-133-104-41",
-    "vg_name_to_shrink": "rl",
-    "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
-    "target_disk_size_gb": "64"
-  },
-  {
-    "vm_name": "unffran-rocky-10-133-104-41",
-    "vg_name_to_shrink": "rl",
-    "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
-    "target_disk_size_gb": "64"
-  },
-  {
-    "vm_name": "unffran-rocky-10-133-104-41",
-    "vg_name_to_shrink": "rl",
-    "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
-    "target_disk_size_gb": "64"
-  },
-  {
-    "vm_name": "unffran-rocky-10-133-104-41",
-    "vg_name_to_shrink": "rl",
-    "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
-    "target_disk_size_gb": "64"
-  },
-  {
-    "vm_name": "unffran-rocky-10-133-104-41",
-    "vg_name_to_shrink": "rl",
-    "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
-    "target_disk_size_gb": "64"
-  },
-  {
-    "vm_name": "unffran-rocky-10-133-104-41",
-    "vg_name_to_shrink": "rl",
-    "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
-    "target_disk_size_gb": "64"
-  },
-  {
-    "vm_name": "unffran-rocky-10-133-104-41",
-    "vg_name_to_shrink": "rl",
-    "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
-    "target_disk_size_gb": "64"
-  },
-  {
-    "vm_name": "unffran-rocky-10-133-104-41",
-    "vg_name_to_shrink": "rl",
-    "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
-    "target_disk_size_gb": "64"
-  },
-  {
-    "vm_name": "unffran-rocky-10-133-104-41",
-    "vg_name_to_shrink": "rl",
-    "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
-    "target_disk_size_gb": "64"
-  },
-  {
-    "vm_name": "unffran-rocky-10-133-104-41",
-    "vg_name_to_shrink": "rl",
-    "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
-    "target_disk_size_gb": "64"
-  },
-  {
-    "vm_name": "unffran-rocky-10-133-104-41",
-    "vg_name_to_shrink": "rl",
-    "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
-    "target_disk_size_gb": "64"
-  },
-  {
-    "vm_name": "unffran-rocky-10-133-104-41",
-    "vg_name_to_shrink": "rl",
-    "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
-    "target_disk_size_gb": "64"
-  },
-  {
-    "vm_name": "unffran-rocky-10-133-104-41",
-    "vg_name_to_shrink": "rl",
-    "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
-    "target_disk_size_gb": "64"
-  },
-  {
-    "vm_name": "unffran-rocky-10-133-104-41",
-    "vg_name_to_shrink": "rl",
-    "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
-    "target_disk_size_gb": "64"
-  },
-  {
-    "vm_name": "unffran-rocky-10-133-104-41",
-    "vg_name_to_shrink": "rl",
-    "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
-    "target_disk_size_gb": "64"
-  },
-  {
-    "vm_name": "unffran-rocky-10-133-104-41",
-    "vg_name_to_shrink": "rl",
-    "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
-    "target_disk_size_gb": "64"
-  },
-  {
-    "vm_name": "unffran-rocky-10-133-104-41",
-    "vg_name_to_shrink": "rl",
-    "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
-    "target_disk_size_gb": "64"
-  },
-  {
-    "vm_name": "unffran-rocky-10-133-104-41",
-    "vg_name_to_shrink": "rl",
-    "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
-    "target_disk_size_gb": "64"
-  },
-  {
-    "vm_name": "unffran-rocky-10-133-104-41",
-    "vg_name_to_shrink": "rl",
-    "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
-    "target_disk_size_gb": "64"
-  },
-  {
-    "vm_name": "unffran-rocky-10-133-104-41",
-    "vg_name_to_shrink": "rl",
-    "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
-    "target_disk_size_gb": "64"
-  },
-  {
-    "vm_name": "unffran-rocky-10-133-104-41",
-    "vg_name_to_shrink": "rl",
-    "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
-    "target_disk_size_gb": "64"
-  },
-  {
-    "vm_name": "unffran-rocky-10-133-104-41",
-    "vg_name_to_shrink": "rl",
-    "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
-    "target_disk_size_gb": "64"
-  },
-  {
-    "vm_name": "unffran-rocky-10-133-104-41",
-    "vg_name_to_shrink": "rl",
-    "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
-    "target_disk_size_gb": "64"
-  },
-  {
-    "vm_name": "unffran-rocky-10-133-104-41",
-    "vg_name_to_shrink": "rl",
-    "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
-    "target_disk_size_gb": "64"
-  },
-  {
-    "vm_name": "unffran-rocky-10-133-104-41",
-    "vg_name_to_shrink": "rl",
-    "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
-    "target_disk_size_gb": "64"
-  },
-  {
-    "vm_name": "unffran-rocky-10-133-104-41",
-    "vg_name_to_shrink": "rl",
-    "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
-    "target_disk_size_gb": "64"
-  },
-  {
     "vm_name": "unffran-rocky-10-133-105-44",
     "vg_name_to_shrink": "rl",
     "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
     "target_disk_size_gb": "64"
   },
   {
+    "vm_name": "10-133-96-17-rocky-prd",
+    "vg_name_to_shrink": "rl",
+    "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
+    "target_disk_size_gb": "64"
+  },
+  {
+    "vm_name": "10-133-96-21-rocky-prd",
+    "vg_name_to_shrink": "rl",
+    "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
+    "target_disk_size_gb": "64"
+  },
+  {
+    "vm_name": "10-133-96-24-rocky-prd",
+    "vg_name_to_shrink": "rl",
+    "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
+    "target_disk_size_gb": "64"
+  },
+  {
+    "vm_name": "10-133-96-44-rocky-prd",
+    "vg_name_to_shrink": "rl",
+    "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
+    "target_disk_size_gb": "64"
+  },
+  {
+    "vm_name": "unffran-rocky-10-133-105-48",
+    "vg_name_to_shrink": "rl",
+    "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
+    "target_disk_size_gb": "64"
+  },
+  {
+    "vm_name": "unffran-rocky-10-133-105-49",
+    "vg_name_to_shrink": "rl",
+    "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
+    "target_disk_size_gb": "64"
+  },
+  {
+    "vm_name": "10-133-96-145-rocky-prd",
+    "vg_name_to_shrink": "rl",
+    "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
+    "target_disk_size_gb": "64"
+  },
+  {
+    "vm_name": "10-133-96-146-rocky-prd",
+    "vg_name_to_shrink": "rl",
+    "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
+    "target_disk_size_gb": "64"
+  },
+  {
+    "vm_name": "10-133-96-165-rocky-prd",
+    "vg_name_to_shrink": "rl",
+    "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
+    "target_disk_size_gb": "64"
+  },
+  {
+    "vm_name": "10-133-96-166-rocky-prd",
+    "vg_name_to_shrink": "rl",
+    "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
+    "target_disk_size_gb": "64"
+  },
+  {
+    "vm_name": "10-133-96-172-rocky-prd",
+    "vg_name_to_shrink": "rl",
+    "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
+    "target_disk_size_gb": "64"
+  },
+  {
+    "vm_name": "10-133-96-194-rocky-prd",
+    "vg_name_to_shrink": "rl",
+    "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
+    "target_disk_size_gb": "64"
+  },
+  {
+    "vm_name": "10-133-96-212-rocky-prd",
+    "vg_name_to_shrink": "rl",
+    "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
+    "target_disk_size_gb": "64"
+  },
+  {
+    "vm_name": "10-133-96-230-rocky-prd",
+    "vg_name_to_shrink": "rl",
+    "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
+    "target_disk_size_gb": "64"
+  },
+  {
+    "vm_name": "10-133-96-237-rocky-prd",
+    "vg_name_to_shrink": "rl",
+    "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
+    "target_disk_size_gb": "64"
+  },
+  {
+    "vm_name": "10-133-96-240-rocky-prd",
+    "vg_name_to_shrink": "rl",
+    "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
+    "target_disk_size_gb": "64"
+  },
+  {
+    "vm_name": "10-133-96-243-rocky-prd",
+    "vg_name_to_shrink": "rl",
+    "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
+    "target_disk_size_gb": "64"
+  },
+  {
+    "vm_name": "10-133-96-246-rocky-prd",
+    "vg_name_to_shrink": "rl",
+    "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
+    "target_disk_size_gb": "64"
+  },
+  {
+    "vm_name": "10-133-97-56-rocky-prd",
+    "vg_name_to_shrink": "rl",
+    "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
+    "target_disk_size_gb": "64"
+  },
+  {
+    "vm_name": "10-133-97-106-rocky-prd",
+    "vg_name_to_shrink": "rl",
+    "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
+    "target_disk_size_gb": "64"
+  },
+  {
+    "vm_name": "unffran-rocky-10-133-105-50",
+    "vg_name_to_shrink": "rl",
+    "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
+    "target_disk_size_gb": "64"
+  },
+  {
+    "vm_name": "10-133-97-133-rocky-prd",
+    "vg_name_to_shrink": "rl",
+    "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
+    "target_disk_size_gb": "64"
+  },
+  {
+    "vm_name": "10-133-97-136-rocky-prd",
+    "vg_name_to_shrink": "rl",
+    "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
+    "target_disk_size_gb": "64"
+  },
+  {
+    "vm_name": "10-133-97-138-rocky-prd",
+    "vg_name_to_shrink": "rl",
+    "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
+    "target_disk_size_gb": "64"
+  },
+  {
+    "vm_name": "10-133-97-150-rocky-prd",
+    "vg_name_to_shrink": "rl",
+    "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
+    "target_disk_size_gb": "64"
+  },
+  {
+    "vm_name": "unffran-rocky-10-133-105-51",
+    "vg_name_to_shrink": "rl",
+    "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
+    "target_disk_size_gb": "64"
+  },
+  {
+    "vm_name": "unffran-rocky-10-133-105-52",
+    "vg_name_to_shrink": "rl",
+    "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
+    "target_disk_size_gb": "64"
+  },
+  {
+    "vm_name": "unffran-rocky-10-133-105-53",
+    "vg_name_to_shrink": "rl",
+    "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
+    "target_disk_size_gb": "64"
+  },
+  {
+    "vm_name": "unffran-rocky-10-133-105-54",
+    "vg_name_to_shrink": "rl",
+    "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
+    "target_disk_size_gb": "64"
+  },
+  {
+    "vm_name": "10-133-97-244-rocky-prd",
+    "vg_name_to_shrink": "rl",
+    "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
+    "target_disk_size_gb": "64"
+  },
+  {
+    "vm_name": "unffran-rocky-10-133-105-55",
+    "vg_name_to_shrink": "rl",
+    "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
+    "target_disk_size_gb": "64"
+  },
+  {
+    "vm_name": "unffran-rocky-10-133-105-56",
+    "vg_name_to_shrink": "rl",
+    "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
+    "target_disk_size_gb": "64"
+  },
+  {
+    "vm_name": "unffran-rocky-10-133-105-57",
+    "vg_name_to_shrink": "rl",
+    "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
+    "target_disk_size_gb": "64"
+  },
+  {
     "vm_name": "unffran-rocky-10-133-105-58",
+    "vg_name_to_shrink": "rl",
+    "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
+    "target_disk_size_gb": "64"
+  },
+  {
+    "vm_name": "unffran-rocky-10-133-105-59",
+    "vg_name_to_shrink": "rl",
+    "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
+    "target_disk_size_gb": "64"
+  },
+  {
+    "vm_name": "unffran-rocky-10-133-104-41",
     "vg_name_to_shrink": "rl",
     "new_lv_sizes": "opt:8G,root:10G,tlanBiS:13G,tmp:1G,var_lib_pgsql:13G",
     "target_disk_size_gb": "64"
